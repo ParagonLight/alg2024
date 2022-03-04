@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## 算法设计与分析
 
-You can use the [editor on GitHub](https://github.com/ParagonLight/paragonlight.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+欢迎来到算法设计与分析课程页面。本课程为南京大学计算机科学与技术系平台课，由我，徐经纬给大家进行讲解。课程会以直播+录播形式呈现，方便大家复习观看。课件则会以PDF的形式分享给大家。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+其他内容也会在后续逐步补充上来。
 
-### Markdown
+### 课程内容
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#### 计算模型
+1. 计算模型 (Model of Computation) [PDF](url)
+2. 渐近时间复杂度 (Asymptotics) [PDF](url)
+3. 递归  (Recursion) [PDF](url)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ParagonLight/paragonlight.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+#### 排序问题
+4. 快速排序 (QuickSort) [PDF](url)
+5. 堆排序 (HeapSort) [PDF](url)
+6. 归并排序 (MergeSort) [PDF](url)
