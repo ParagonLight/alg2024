@@ -7,11 +7,11 @@
 ### 课程内容
 
 #### 计算模型
-1. 计算模型 (Model of Computation) [PDF](url)
-2. 渐近时间复杂度 (Asymptotics) [PDF](url)
-3. 递归  (Recursion) [PDF](url)
+1. 计算模型 (Model of Computation) [PDF](slides/L1.pdf)
+2. 渐近时间复杂度 (Asymptotics) [PDF](slides/L2.pdf)
+3. 递归 (Recursion) [PDF](slides/L3.pdf)
 
 #### 排序问题
-4. 快速排序 (QuickSort) [PDF](url)
-5. 堆排序 (HeapSort) [PDF](url)
-6. 归并排序 (MergeSort) [PDF](url)
+4. 快速排序 (QuickSort) [PDF](slides/L4.pdf)
+5. 堆排序 (HeapSort) [PDF](slides/L5.pdf)
+6. 归并排序 (MergeSort) PDF
