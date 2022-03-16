@@ -15,3 +15,7 @@
 5. 快速排序 (QuickSort) [PDF](slides/L4.pdf) [视频](https://www.bilibili.com/video/BV1Su411D74j)
 6. 堆排序 (HeapSort) [PDF](slides/L5.pdf) [视频](https://www.bilibili.com/video/BV1bu411D7JE)
 7. 归并排序 (MergeSort) [PDF](slides/L6.pdf) [视频](https://www.bilibili.com/video/BV1SY411g7NQ)
+8. Tutorial 2 [视频](https://www.bilibili.com/video/BV1BL4y1u7aD) 
+#### 选择和搜索
+9. 线性时间选择 [视频](https://www.bilibili.com/video/BV1yL411P7jT)
+10. logn时间搜索 [视频](https://www.bilibili.com/video/BV1eb4y1s)
