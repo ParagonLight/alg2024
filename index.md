@@ -17,5 +17,7 @@
 7. 归并排序 (MergeSort) [PDF](slides/L6.pdf) [视频](https://www.bilibili.com/video/BV1SY411g7NQ)
 8. Tutorial 2 [视频](https://www.bilibili.com/video/BV1BL4y1u7aD) 
 #### 选择和搜索
-9. 线性时间选择 [视频](https://www.bilibili.com/video/BV1yL411P7jT)
-10. logn时间搜索 [视频](https://www.bilibili.com/video/BV1eb4y1s)
+9. 线性时间选择 [PDF](slides/L7.pdf) [视频](https://www.bilibili.com/video/BV1yL411P7jT)
+10. logn时间搜索 [PDF](slides/L8.pdf) [视频](https://www.bilibili.com/video/BV1eb4y1s)
+11.  哈希表&平摊分析 [PDF](slides/L9.pdf) [视频](https://www.bilibili.com/video/BV18q4y1v7Wy)
+12. 并查集 [PDF](slides/L10.pdf)
