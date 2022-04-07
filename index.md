@@ -21,9 +21,11 @@
 10. logn时间搜索 [PDF](slides/L8.pdf) [视频](https://www.bilibili.com/video/BV1eb4y1s)
 11.  哈希表&平摊分析 [PDF](slides/L9.pdf) [视频](https://www.bilibili.com/video/BV18q4y1v7Wy)
 12. 并查集 [PDF](slides/L10.pdf) [视频](https://www.bilibili.com/video/BV1Bi4y1k7C6)
-
-
+#### 图遍历
+13. 图遍历基础 [PDF](slides/L11.pdf) [视频](https://www.bilibili.com/video/BV1Nr4y1s7bW)
+14. 有向无环图遍历 [PDF](slides/L12.pdf) [视频](https://www.bilibili.com/video/BV1QY411J7hR)
+15. 无向图遍历 [PDF](slides/L3.pdf) [视频](https://www.bilibili.com/video/BV12q4y1a7Px)
 
 ### 课程作业
 
-本课程作业均来自黄宇老师的《算法设计与分析》第二版内容，题号见 [作业](a.pdf) (作业题持续更新中...)
+本课程作业均来自黄宇老师的《算法设计与分析》第二版内容，题号见 [作业](P4.pdf) (作业题更新至图遍历部分)
