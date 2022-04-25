@@ -21,11 +21,15 @@
 10. logn时间搜索 [PDF](slides/L8.pdf) [视频](https://www.bilibili.com/video/BV1eb4y1s)
 11.  哈希表&平摊分析 [PDF](slides/L9.pdf) [视频](https://www.bilibili.com/video/BV18q4y1v7Wy)
 12. 并查集 [PDF](slides/L10.pdf) [视频](https://www.bilibili.com/video/BV1Bi4y1k7C6)
+13. Tutorial 3 [视频](https://www.bilibili.com/video/BV13Y411J7z4) 
 #### 图遍历
-13. 图遍历基础 [PDF](slides/L11.pdf) [视频](https://www.bilibili.com/video/BV1Nr4y1s7bW)
-14. 有向无环图遍历 [PDF](slides/L12.pdf) [视频](https://www.bilibili.com/video/BV1QY411J7hR)
-15. 无向图遍历 [PDF](slides/L3.pdf) [视频](https://www.bilibili.com/video/BV12q4y1a7Px)
-
+14. 图遍历基础 [PDF](slides/L11.pdf) [视频](https://www.bilibili.com/video/BV1Nr4y1s7bW)
+15. 有向无环图遍历 [PDF](slides/L12.pdf) [视频](https://www.bilibili.com/video/BV1QY411J7hR)
+16. 无向图遍历 [PDF](slides/L13.pdf) [视频](https://www.bilibili.com/video/BV12q4y1a7Px)
+17. Tutorial 4 [视频](https://www.bilibili.com/video/BV1hZ4y127GU) 
+#### 图优化
+18. 最小生成树 [PDF](slides/L14.pdf) [视频](https://www.bilibili.com/video/BV1dr4y1n7MA)
+19. 最短路径 [PDF](slides/L15.pdf) [视频](https://www.bilibili.com/video/BV1mZ4y117or)
 ### 课程作业
 
-本课程作业均来自黄宇老师的《算法设计与分析》第二版内容，题号见 [作业](P4.pdf) (作业题更新至图遍历部分)
+本课程作业均来自黄宇老师的《算法设计与分析》第二版内容，题号见 [作业](P5.pdf) (作业题更新至图优化部分)
