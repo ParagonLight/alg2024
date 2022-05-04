@@ -31,6 +31,7 @@
 18. 最小生成树 [PDF](slides/L14.pdf) [视频](https://www.bilibili.com/video/BV1dr4y1n7MA)
 19. 最短路径 [PDF](slides/L15.pdf) [视频](https://www.bilibili.com/video/BV1mZ4y117or)
 20. Tutorial 5 [视频](https://www.bilibili.com/video/BV1pR4y1N7TE)
+#### 动态规划
 ### 课程作业
 
 本课程作业均来自黄宇老师的《算法设计与分析》第二版内容，题号见 [作业](P5.pdf) (作业题更新至图优化部分)
