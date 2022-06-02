@@ -36,8 +36,11 @@
 22. 动态规划2 [PDF](sldes/L17.pdf) [视频](https://www.bilibili.com/video/BV1er4y1t7nT)
 23. Tutorial 6 [视频](https://www.bilibili.com/video/BV1dA4y1S7eP)
 #### NP完全初探
-1.  NPC1 [PDF](sldes/L18.pdf) [视频](https://www.bilibili.com/video/BV1Ar4y1t7tv)
-2.  NPC2 [PDF](sldes/L19.pdf) [视频](https://www.bilibili.com/video/BV1eZ4y1b7Sj)
+24.  NPC1 [PDF](sldes/L18.pdf) [视频](https://www.bilibili.com/video/BV1Ar4y1t7tv)
+25.  NPC2 [PDF](sldes/L19.pdf) [视频](https://www.bilibili.com/video/BV1eZ4y1b7Sj)
+26.  Tutorial 7 [视频](https://www.bilibili.com/video/BV1654y1o7XX)
+#### 完结撒花+恰饭
+27   期末总结 [视频](https://www.bilibili.com/video/BV1dB4y1X7vi)
 ### 课程作业
 
 本课程作业均来自黄宇老师的《算法设计与分析》第二版内容，题号见 [作业](P7.pdf) (作业题已全部更新完毕)
