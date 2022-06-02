@@ -32,12 +32,12 @@
 19. 最短路径 [PDF](slides/L15.pdf) [视频](https://www.bilibili.com/video/BV1mZ4y117or)
 20. Tutorial 5 [视频](https://www.bilibili.com/video/BV1pR4y1N7TE)
 #### 动态规划
-21. 动态规划1 [PDF](sldes/L16.pdf) [视频](https://www.bilibili.com/video/BV15Y4y1r73U)
-22. 动态规划2 [PDF](sldes/L17.pdf) [视频](https://www.bilibili.com/video/BV1er4y1t7nT)
+21. 动态规划1 [PDF](slides/L16.pdf) [视频](https://www.bilibili.com/video/BV15Y4y1r73U)
+22. 动态规划2 [PDF](slides/L17.pdf) [视频](https://www.bilibili.com/video/BV1er4y1t7nT)
 23. Tutorial 6 [视频](https://www.bilibili.com/video/BV1dA4y1S7eP)
 #### NP完全初探
-24.  NPC1 [PDF](sldes/L18.pdf) [视频](https://www.bilibili.com/video/BV1Ar4y1t7tv)
-25.  NPC2 [PDF](sldes/L19.pdf) [视频](https://www.bilibili.com/video/BV1eZ4y1b7Sj)
+24.  NPC1 [PDF](slides/L18.pdf) [视频](https://www.bilibili.com/video/BV1Ar4y1t7tv)
+25.  NPC2 [PDF](slides/L19.pdf) [视频](https://www.bilibili.com/video/BV1eZ4y1b7Sj)
 26.  Tutorial 7 [视频](https://www.bilibili.com/video/BV1654y1o7XX)
 #### 完结撒花+恰饭
 27   期末总结 [视频](https://www.bilibili.com/video/BV1dB4y1X7vi)
