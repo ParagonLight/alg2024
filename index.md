@@ -35,7 +35,7 @@
 #### NP完全初探
 24.  NPC1 [PDF](slides/L18.pdf) [视频](https://www.bilibili.com/video/BV1Au411x72w)
 25.  NPC2 [PDF](slides/L19.pdf) [视频](https://www.bilibili.com/video/BV1Wg4y1F7aC)
-#### 完结撒花+恰饭
+#### 总结
 27   期末总结 [PDF](slides/L20.pdf) [视频](https://www.bilibili.com/video/BV1sh4y197oP)
 <!-- ### 课程作业 -->
 
